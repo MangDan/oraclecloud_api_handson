@@ -7,7 +7,7 @@ hookfiles: null
 language: nodejs
 require: null
 server: java -jar target/helidon-movieapi-mp.jar
-server-wait: 3
+server-wait: 5
 init: false
 names: false
 only: []
